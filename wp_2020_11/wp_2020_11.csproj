@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,60 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="res\10.jpg" />
+    <Content Include="res\11.jpg" />
+    <Content Include="res\12.jpg" />
+    <Content Include="res\13.jpg" />
+    <Content Include="res\14.jpg" />
+    <Content Include="res\15.jpg" />
+    <Content Include="res\16.jpg" />
+    <Content Include="res\17.jpg" />
+    <Content Include="res\18.jpg" />
+    <Content Include="res\19.jpg" />
+    <Content Include="res\2.jpg" />
+    <Content Include="res\20.jpg" />
+    <Content Include="res\21.jpg" />
+    <Content Include="res\22.jpg" />
+    <Content Include="res\23.jpg" />
+    <Content Include="res\24.jpg" />
+    <Content Include="res\25.jpg" />
+    <Content Include="res\26.jpg" />
+    <Content Include="res\27.jpg" />
+    <Content Include="res\28.jpg" />
+    <Content Include="res\29.jpg" />
+    <Content Include="res\3.jpg" />
+    <Content Include="res\30.jpg" />
+    <Content Include="res\31.jpg" />
+    <Content Include="res\32.jpg" />
+    <Content Include="res\33.jpg" />
+    <Content Include="res\34.jpg" />
+    <Content Include="res\35.jpg" />
+    <Content Include="res\36.jpg" />
+    <Content Include="res\37.jpg" />
+    <Content Include="res\38.jpg" />
+    <Content Include="res\39.jpg" />
+    <Content Include="res\4.jpg" />
+    <Content Include="res\40.jpg" />
+    <Content Include="res\41.jpg" />
+    <Content Include="res\42.jpg" />
+    <Content Include="res\43.jpg" />
+    <Content Include="res\44.jpg" />
+    <Content Include="res\45.jpg" />
+    <Content Include="res\46.jpg" />
+    <Content Include="res\47.jpg" />
+    <Content Include="res\48.jpg" />
+    <Content Include="res\49.jpg" />
+    <Content Include="res\5.jpg" />
+    <Content Include="res\50.jpg" />
+    <Content Include="res\51.jpg" />
+    <Content Include="res\52.jpeg" />
+    <Content Include="res\53.jpg" />
+    <Content Include="res\6.jpg" />
+    <Content Include="res\7.jpg" />
+    <Content Include="res\8.jpg" />
+    <Content Include="res\9.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
